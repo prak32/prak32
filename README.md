@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<div style="background: url('[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVqdDczeXNubnVyYmh4YmU2M2FmNmxkcXA0NHBvc3A3bG85Y24yNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/peAFQfg7Ol6IE/giphy.webp)') no-repeat center center fixed; background-size: cover; padding: 20px;">
+<div style="background: url('[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVqdDczeXNubnVyYmh4YmU2M2FmNmxkcXA0NHBvc3A3bG85Y24yNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/peAFQfg7Ol6IE/giphy.webp)') no-repeat center center fixed; background-size: cover;">
 
 <img align="right" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpieTVnamNwZmpybmZmd293YXN3aThlbDNweGV5N2hyYjF0YzI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp" height="150px" width="180px"/>
 
