@@ -1,4 +1,4 @@
-<div align="center" style="position: relative; width: 100%; height: 100%;">
+<div align="center" style="position: relative; width: 100%; height: 600%;">
   <img src="https://github.com/prak32/prak32/blob/master/giphy.webp" alt="fireworks" style="width: 50%; height: 30%; position: absolute; top: 0; left: 0; z-index: -1;">
   <h1>Hi 👋, I'm Prakash Shrestha</h1>
   <h3>A passionate frontend developer from Nepal</h3>
