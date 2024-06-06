@@ -1,5 +1,5 @@
 <div align="center" style="position: relative; width: 100%; height: 600%;">
-  <img src="https://github.com/prak32/prak32/blob/master/giphy.webp" alt="fireworks" style="width: 60px ; height: 60px; position: absolute; top: 0; left: 0;">
+  <img src="https://github.com/prak32/prak32/blob/master/giphy.webp" alt="fireworks" style="width: 60px ; height: 60px; position: absolute; top: 0; left: 0; opacity: 20px">
   <h1>Hi 👋, I'm Prakash Shrestha</h1>
   <h3>A passionate frontend developer from Nepal</h3>
   <img align="right" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpieTVnamNwZmpybmZmd293YXN3aThlbDNweGV5N2hyYjF0YzI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp" height="150px" width="180px"/>
