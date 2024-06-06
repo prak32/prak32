@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpieTVnamNwZmpybmZmd293YXN3aThlbDNweGV5N2hyYjF0YzI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp" height="24px" width="28px"/>
+<img align="right" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpieTVnamNwZmpybmZmd293YXN3aThlbDNweGV5N2hyYjF0YzI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp" height="56px" width="60px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prak32&label=Profile%20views&color=0e75b6&style=flat" alt="prak32" /> </p>
 
