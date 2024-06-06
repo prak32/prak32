@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" src="https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK"/>
+<img align="right" alt="coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpieTVnamNwZmpybmZmd293YXN3aThlbDNweGV5N2hyYjF0YzI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prak32&label=Profile%20views&color=0e75b6&style=flat" alt="prak32" /> </p>
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prak32&show_icons=true&locale=en" alt="prak32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prak32&" alt="prak32" /></p>
+
